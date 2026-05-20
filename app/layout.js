@@ -7,6 +7,9 @@ export const metadata = {
     template: "%s | NY Tax Consultant",
   },
   description: "Professional tax consulting for NYC residents, freelancers, and businesses. Expert advice on tax planning, filing, and IRS issues.",
+  verification: {
+    google: "F7XlEZSwydkNFbmj2CdIeaReY08Dk7k3tfIuNhN15xs",
+  },
   keywords: ["NYC tax consultant", "New York tax help", "NYC tax filing", "New York City taxes", "NYC CPA", "tax planning New York"],
   authors: [{ name: "NY Tax Consultant" }],
   creator: "NY Tax Consultant",
