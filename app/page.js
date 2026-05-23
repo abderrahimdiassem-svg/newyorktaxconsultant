@@ -397,13 +397,20 @@ export default function HomePage() {
           </div>
         </div>
         <div style={{
-          maxWidth: 1100, margin: "28px auto 0",
-          borderTop: "1px solid rgba(255,255,255,0.1)",
-          paddingTop: 24, textAlign: "center",
-          fontSize: 11, color: "rgba(255,255,255,0.3)"
-        }}>
-          © 2025 NewYorkTaxConsultant.com · All rights reserved · Not a substitute for professional legal advice
-        </div>
+  maxWidth: 1100, margin: "28px auto 0",
+  borderTop: "1px solid rgba(255,255,255,0.1)",
+  paddingTop: 24, textAlign: "center",
+  fontSize: 11, color: "rgba(255,255,255,0.3)"
+}}>
+  © 2025 NewYorkTaxConsultant.com · All rights reserved ·{" "}
+  <Link href="/about" style={{ color: "rgba(255,255,255,0.4)", textDecoration: "none" }}>
+    About
+  </Link>
+  {" · "}
+  <Link href="/privacy-policy" style={{ color: "rgba(255,255,255,0.4)", textDecoration: "none" }}>
+    Privacy Policy
+  </Link>
+</div>
       </footer>
 
     </main>
