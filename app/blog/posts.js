@@ -754,5 +754,323 @@ export const posts = [
   
   Dividing 401(k)s and pension plans in divorce requires a Qualified Domestic Relations Order. Done correctly, the transfer is tax-free. Done incorrectly, it can trigger income taxes and a 10% early withdrawal penalty. IRAs are divided through a transfer incident to divorce, which also has specific procedural requirements.
       `
-    }
+    },
+    {
+      slug: "how-can-i-reduce-my-tax-bill-nyc",
+      tag: "Tax Planning",
+      title: "How Can I Reduce My Tax Bill? Real Answers From NYC Tax Consultants",
+      date: "May 24, 2025",
+      readTime: "7 min read",
+      excerpt: "The number one question every tax consultant hears — and the honest, practical answer that can save NYC residents thousands every year.",
+      content: `
+  This is the question we hear more than any other. Every single client, whether they are a teacher in the Bronx or a hedge fund analyst in Midtown, wants to know the same thing: how do I pay less?
+  
+  The honest answer is that most people are already overpaying — not because they are doing anything wrong, but because nobody ever showed them the options. The tax code is enormous and filled with legal ways to reduce what you owe. The trick is knowing where to look.
+  
+  The first place to start is your retirement contributions. Every dollar you put into a 401(k) or traditional IRA is a dollar the government does not tax this year. For someone in a combined federal and New York State bracket of 35%, contributing $10,000 to a retirement account is worth $3,500 in immediate tax savings. That is real money, and most people are not maxing out their contributions.
+  
+  The second thing we always look at is whether someone is capturing every deduction they are entitled to. This sounds obvious, but you would be surprised how many people miss things. Medical expenses above a certain threshold are deductible. So are student loan interest payments, certain home expenses if you work from home, and charitable contributions. If you gave money to your church, a local food bank, or any registered nonprofit, that is a deduction.
+  
+  For anyone who is self-employed or runs a side business in New York City, the opportunities multiply significantly. Your phone, your laptop, your home office, your professional subscriptions, your health insurance premiums — all potentially deductible. We regularly find $5,000 to $15,000 in missed deductions for freelancers who come in thinking they owe a lot.
+  
+  Another underused strategy is tax-loss harvesting for people who invest. If you have stocks or crypto that have gone down in value, selling them before year-end creates a loss you can use to offset gains elsewhere. The IRS lets you use those losses to reduce your taxable income by up to $3,000 per year, with the rest carried forward.
+  
+  The deeper truth is that reducing your tax bill is not something you do in April. It is something you plan for all year. The people who pay the least taxes are not the ones who are the most aggressive — they are the ones who are the most organized and who plan ahead. A conversation with a tax professional in October or November, when there is still time to act, is worth far more than a rushed filing in April.
+  
+  If you have never sat down with someone and gone through your full financial picture with the specific goal of reducing your taxes, you are almost certainly leaving money on the table. The question is not whether there are savings available — it is how much.
+      `
+    },
+    {
+      slug: "what-deductions-am-i-eligible-for-nyc",
+      tag: "Tax Planning",
+      title: "What Deductions Am I Actually Eligible For? A Straight Answer for NYC Residents",
+      date: "May 24, 2025",
+      readTime: "8 min read",
+      excerpt: "Most NYC residents are eligible for far more deductions than they realize. Here is a plain-English breakdown of what you can actually claim.",
+      content: `
+  This is one of those questions where the honest answer is: probably more than you think. The tax code has hundreds of deductions built into it, and most people only know about two or three of them.
+  
+  Let us walk through the main ones that apply to everyday New Yorkers.
+  
+  The home office deduction is one of the most valuable and most underused. If you work from home — even part of the time as a freelancer or self-employed person — and you have a dedicated space used exclusively for work, you can deduct a portion of your rent, utilities, and internet. In New York City where the average apartment costs over $3,000 a month, this deduction can be substantial. The math is simple: if your office takes up 15% of your apartment's square footage, 15% of your housing costs become a business expense.
+  
+  Medical expenses are deductible when they exceed 7.5% of your adjusted gross income. That sounds like a lot, but for people with ongoing health conditions, dental work, vision care, therapy, or prescription costs, it adds up quickly. Many people skip this one assuming they will not hit the threshold without ever actually doing the math.
+  
+  If you are paying student loans, the interest you pay is deductible up to $2,500 per year. This applies even if you do not itemize — it comes right off your income before your tax is calculated.
+  
+  Charitable donations, whether cash or goods, are deductible if you itemize. That includes money you gave to your mosque, church, synagogue, or temple. It includes clothes you dropped at Goodwill. It includes anything you donated to a registered charity. The key is keeping records — receipts for cash donations, and a description plus estimated value for goods.
+  
+  Retirement contributions are among the most powerful deductions available. Contributing to a traditional IRA reduces your taxable income dollar for dollar, up to $7,000 per year in 2025 or $8,000 if you are 50 or older. If you are self-employed, a SEP-IRA lets you contribute significantly more.
+  
+  For parents, childcare expenses can qualify for the Child and Dependent Care Credit. New York State also has its own version of this credit that many families overlook.
+  
+  Teachers in New York City can deduct up to $300 for classroom supplies they buy out of pocket. It is a small number but it requires zero extra work to claim.
+  
+  The important thing to understand is that deductions are not one-size-fits-all. What you can claim depends entirely on your specific situation — your income, your job, your family, your expenses. The best approach is always to go through your actual life circumstances with someone who knows what to look for.
+      `
+    },
+    {
+      slug: "standard-deduction-vs-itemize-nyc",
+      tag: "Tax Planning",
+      title: "Standard Deduction or Itemize? How NYC Residents Should Decide",
+      date: "May 24, 2025",
+      readTime: "6 min read",
+      excerpt: "This is one of the most common tax questions and the answer depends entirely on your situation. Here is how to think through it the right way.",
+      content: `
+  Every year, millions of Americans face the same choice: take the standard deduction, or go through the work of itemizing every deductible expense. For most people the decision is straightforward. But for New Yorkers, it is worth thinking through more carefully than most.
+  
+  The standard deduction for 2025 is $15,000 for single filers and $30,000 for married couples filing jointly. This is a flat amount the IRS lets you subtract from your income without requiring any documentation. It is simple, fast, and for a lot of people, it is the right call.
+  
+  Itemizing means adding up every qualifying expense — mortgage interest, state and local taxes, charitable contributions, medical expenses above the threshold, and so on — and deducting the actual total if it exceeds the standard deduction.
+  
+  Here is the catch for New York City residents: the federal cap on state and local tax deductions, known as the SALT cap, limits how much you can deduct to $10,000. This was a significant change that hit New Yorkers especially hard, because our combined city and state taxes often exceed that cap on their own. Before this cap was introduced, many NYC residents could itemize and come out far ahead. Now the math is tighter.
+  
+  That said, itemizing still makes sense for a lot of people in New York. If you own property and pay mortgage interest, that is often the biggest driver. Mortgage interest on a Manhattan or Brooklyn apartment or home can easily run $20,000, $30,000, or more per year. Add charitable giving, any deductible medical expenses, and you could still come out ahead of the standard deduction even with the SALT cap in place.
+  
+  Renters who do not have mortgage interest to deduct are less likely to benefit from itemizing under current law, unless they have significant charitable contributions or medical expenses.
+  
+  The way to know for sure is to actually run the numbers both ways. This is not complicated — it just requires gathering your documentation and doing the comparison. A good tax professional will do this automatically and put you in whichever category saves you more money.
+  
+  One more thing worth knowing: your federal and state decisions do not have to match. New York State has its own standard deduction amounts and its own itemizing rules. It is entirely possible to take the standard deduction federally and itemize on your state return, or vice versa. This is another area where working with someone who knows New York specifically can make a real difference.
+      `
+    },
+    {
+      slug: "why-do-i-owe-taxes-this-year-nyc",
+      tag: "NYC Taxes",
+      title: "Why Do I Owe Taxes This Year Even Though My Income Did Not Change?",
+      date: "May 24, 2025",
+      readTime: "6 min read",
+      excerpt: "One of the most frustrating surprises in personal finance. Here are the real reasons you might owe more this year even when your paycheck looks the same.",
+      content: `
+  This is one of the most frustrating things that happens to people at tax time. You sit down to file, your income looks basically the same as last year, and somehow you owe money — or a lot more than you expected. It feels wrong. But there are usually very clear explanations.
+  
+  The most common reason is a change in your withholding without you realizing it. Your employer calculates how much to withhold from each paycheck based on the W-4 form you filled out, possibly years ago. If your life has changed — a new job, a raise, a second source of income, getting married or divorced — your withholding may no longer match your actual tax liability. The IRS does not automatically adjust for this. That gap between what was withheld and what you actually owe shows up as a bill in April.
+  
+  A second common reason is that a tax credit you relied on in previous years has phased out. Tax credits are not permanent for everyone. The Child Tax Credit, for example, begins to phase out at higher income levels. If you got a raise last year, you might still qualify for the credit but at a reduced amount. Nobody sends you a notice about this. You just owe more at filing time and wonder why.
+  
+  Investment income is another frequent culprit. If you sold stocks, crypto, or any other asset during the year and made a profit, that is taxable income. It does not matter if you reinvested the proceeds. The gain was still realized and the tax is owed. Many people forget about this, especially those who sold during a market rally.
+  
+  Side income and freelance work is increasingly a factor for New Yorkers. If you drove for a rideshare service, did consulting, sold on Etsy, or earned any income outside of a regular W-2 job, that income typically had nothing withheld from it. Every dollar of that income is owed in taxes — plus self-employment tax on top of it.
+  
+  Sometimes the answer is simply that a one-time event happened. You withdrew from a retirement account. You had a bonus. You received an inheritance that generated income. These things can push you into a higher bracket or eliminate eligibility for certain deductions.
+  
+  The solution going forward is to review your withholding at least once a year, especially after any major life change. The IRS has a withholding estimator tool on their website that walks you through the calculation. Or you can sit down with a tax professional after any significant change to make sure your withholding is aligned with what you will actually owe.
+      `
+    },
+    {
+      slug: "tax-extension-what-it-actually-means",
+      tag: "NYC Taxes",
+      title: "Filing a Tax Extension: What It Actually Does and Does Not Do",
+      date: "May 24, 2025",
+      readTime: "5 min read",
+      excerpt: "Most people misunderstand what a tax extension actually means. It does not do what most people think it does.",
+      content: `
+  Every year around April, we get a flood of calls from people asking about filing an extension. And every year, we have the same conversation: an extension gives you more time to file your return, but it does not give you more time to pay what you owe.
+  
+  This is the single most important thing to understand about tax extensions, and it trips up a surprising number of people.
+  
+  Here is how it actually works. If you file for an extension by April 15, you have until October 15 to submit your completed tax return. That is six extra months to gather your documents, figure out your numbers, and get everything done properly. If your situation is complicated — you have a business, foreign income, multiple investment accounts, or you are just not organized — this extra time is genuinely useful.
+  
+  But here is the part people miss: the IRS still expects you to pay whatever you owe by April 15. Not October 15. April 15. If you owe $3,000 and you file for an extension without paying that $3,000, the IRS starts charging you interest and a failure-to-pay penalty from April 16 onward. By October you could owe significantly more than you started with.
+  
+  The right way to handle an extension is to estimate what you owe as best you can and pay that amount when you file for the extension in April. You do not need to be exact. If you overpay, you get a refund when you file the actual return. If you slightly underpay, the interest and penalties on a small amount are manageable.
+  
+  New York State follows the same logic. You get an automatic extension to file if you are getting a federal extension, but you still need to pay your estimated New York State and City taxes by April 15.
+  
+  Extensions are a completely normal and legitimate tool. There is no penalty for using them, no red flag to the IRS, and no judgment from anyone. Plenty of people with genuinely complicated tax situations file on extension every single year. The only mistake is using the extra time to also delay your payment when you actually owe money.
+  
+  If you are not sure how much you owe, a quick consultation with a tax professional in late March or early April can give you a reasonable estimate so you can make your payment and then take the time to do things right.
+      `
+    },
+    {
+      slug: "what-tax-documents-do-i-need-nyc",
+      tag: "NYC Taxes",
+      title: "What Tax Documents Do You Actually Need? A Complete NYC Checklist",
+      date: "May 24, 2025",
+      readTime: "6 min read",
+      excerpt: "Walking into a tax appointment unprepared wastes time and money. Here is exactly what to bring and why each document matters.",
+      content: `
+  One of the simplest ways to make your tax filing faster and cheaper is to show up prepared. When you walk into a tax appointment with everything organized, you spend less time, pay less in fees, and reduce the risk of missing something important.
+  
+  Here is what you need, organized by category.
+  
+  For income, you need every W-2 you received. If you worked multiple jobs during the year, you need a W-2 from each employer. These should arrive by January 31. If you did any freelance or contract work, you need any 1099-NEC or 1099-MISC forms you received. If you earned interest from a bank account, you need the 1099-INT. If you received dividends or sold investments, you need the 1099-DIV and 1099-B from your brokerage. If you are a partner in a business or an S-Corporation shareholder, you need your K-1.
+  
+  For deductions and credits, bring documentation for anything you plan to claim. If you are claiming a home office, have the square footage of your workspace and your total apartment size ready, along with your annual rent or mortgage statements. If you paid mortgage interest, your lender will send you a Form 1098. Bring records of any charitable donations — receipts for cash gifts and descriptions of any donated property. If you paid student loan interest, the servicer will send a 1098-E. For childcare expenses, bring the name, address, and tax ID number of your provider.
+  
+  For healthcare, bring proof of health insurance coverage, Form 1095-A if you purchased insurance through the marketplace, and records of any significant medical expenses you paid out of pocket.
+  
+  For business owners and self-employed people, bring your profit and loss summary for the year, records of business expenses organized by category, mileage logs if you use a vehicle for business, and any receipts for equipment or software purchases.
+  
+  Finally, bring last year's tax return. This sounds basic but many people forget. It contains information your preparer needs — your prior year adjusted gross income for e-filing verification, carryforward amounts from investment losses, and depreciation schedules for rental properties or business assets.
+  
+  The more organized you are when you arrive, the faster the process goes and the better your outcome. We always tell clients: a shoebox of receipts is better than nothing, but a spreadsheet is better than a shoebox. Take even one hour before your appointment to organize what you have and it will pay for itself.
+      `
+    },
+    {
+      slug: "new-tax-credits-and-breaks-2025-nyc",
+      tag: "Tax Planning",
+      title: "New Tax Credits and Breaks You Should Know About in 2025",
+      date: "May 24, 2025",
+      readTime: "7 min read",
+      excerpt: "Tax law changes every year and 2025 has some important updates that could put real money back in your pocket if you know where to look.",
+      content: `
+  Tax law is not static. Every year brings adjustments, new provisions, and sometimes significant changes that affect what you owe. Staying current is part of what a good tax professional does for you — but knowing the landscape yourself helps you ask the right questions.
+  
+  Here is what matters most for 2025.
+  
+  The standard deduction has increased again due to inflation adjustments. For single filers it is now $15,000, and for married couples filing jointly it is $30,000. This annual increase means some people who were on the fence about itemizing last year may now be better off taking the standard deduction instead.
+  
+  The Child Tax Credit remains at $2,000 per qualifying child under 17, with up to $1,700 refundable. For families in New York City, this is one of the most valuable credits available, and it stacks with the New York State child credit as well.
+  
+  The Earned Income Tax Credit continues to be one of the most significant benefits for working people with moderate incomes. For 2025, the maximum credit for a family with three or more children is over $7,800 federally. New York State adds another 30% on top of that, and New York City adds an additional 10%. If your income is in the qualifying range and you have children, this credit alone can be the difference between owing and receiving a substantial refund.
+  
+  For people who received tips or work in service industries, there has been significant political attention on tip income taxation this year. The situation has been evolving and it is worth asking your tax professional about the current rules if tips make up a meaningful portion of your income.
+  
+  Retirement contribution limits have been adjusted upward. You can now contribute $23,500 to a 401(k) plan, and the catch-up contribution for people 50 and older has increased. IRA contribution limits are at $7,000, or $8,000 if you are 50 or older.
+  
+  Energy efficiency improvements to your home may qualify for credits under the Inflation Reduction Act provisions that remain in effect. If you installed solar panels, upgraded your heating system, or made qualifying insulation improvements, there may be a federal credit available.
+  
+  For electric vehicle buyers, the clean vehicle credit of up to $7,500 remains available for qualifying new vehicles, with income limits that determine eligibility. Used electric vehicles may qualify for a smaller credit.
+  
+  The landscape changes, and what was true last year may not be true this year. The best approach is always to sit down with someone who tracks these changes professionally and walk through your specific situation with current information.
+      `
+    },
+    {
+      slug: "how-to-adjust-w4-withholding-nyc",
+      tag: "Tax Planning",
+      title: "How to Adjust Your W-4 Withholding the Right Way",
+      date: "May 24, 2025",
+      readTime: "6 min read",
+      excerpt: "Your W-4 controls how much tax comes out of your paycheck. Most people set it once and forget it — which is usually a mistake.",
+      content: `
+  Your W-4 is one of the most important tax forms you will ever fill out, and most people treat it like an afterthought. You get a new job, HR hands you a stack of paperwork, you check a box or enter a number on the W-4 without really understanding it, and then you wonder years later why you always owe money or always get a refund.
+  
+  Both of those outcomes — owing a big bill and getting a big refund — are actually signs that your withholding is off. A large refund feels nice, but it means you gave the government an interest-free loan all year. A big bill means you underpaid and may owe penalties on top of it.
+  
+  The goal is to have your withholding match your actual tax liability as closely as possible.
+  
+  The W-4 was redesigned a few years ago to be more straightforward. Instead of claiming allowances, which was confusing, you now enter dollar amounts directly. Step 1 is your personal information. Step 2 is for people with multiple jobs or a working spouse. Step 3 is where you claim dependents and credits. Step 4 lets you add extra withholding or claim deductions you plan to take.
+  
+  Life changes are the most common reason to update your W-4. If you got married, your combined income affects your bracket and you should revisit withholding. If you got divorced, your situation changed significantly. A new baby means new credits you can account for. A significant raise can push you into a higher bracket. A second job means more income that needs to be withheld somewhere.
+  
+  For New York City residents, it is important to remember that your W-4 only addresses federal withholding. New York State and New York City have their own withholding forms — the IT-2104. This is a separate form that your employer should have had you fill out. Many people fill out the federal W-4 but never think about the state version, which can create a mismatch between what is withheld and what you owe New York.
+  
+  The IRS has a withholding estimator tool on their website that is genuinely useful. You enter your expected income, deductions, and credits, and it tells you what your withholding should be. It takes about ten minutes and can save you a significant headache at tax time.
+  
+  If you want to be more precise, or if your situation is complicated with self-employment income, rental properties, or investments, talking to a tax professional about your withholding before the middle of the year gives you time to make adjustments that actually affect the whole year.
+      `
+    },
+    {
+      slug: "what-business-expenses-can-i-deduct-nyc",
+      tag: "Business",
+      title: "What Business Expenses Can I Deduct? A Real Answer for NYC Business Owners",
+      date: "May 24, 2025",
+      readTime: "7 min read",
+      excerpt: "Business owners in NYC have access to deductions that can dramatically reduce their tax bill. Here is what actually qualifies and how to think about it.",
+      content: `
+  This is one of the most common questions we hear from small business owners and freelancers in New York City, and the answer is both simpler and broader than most people expect.
+  
+  The general rule is that any expense that is ordinary and necessary for your business is deductible. Ordinary means it is common and accepted in your industry. Necessary means it is helpful and appropriate for your business. The IRS does not require the expense to be indispensable — just reasonable and genuinely related to earning income.
+  
+  Let us go through the main categories.
+  
+  Rent for office or commercial space is fully deductible. If you lease a studio in Brooklyn for your photography business or office space in Midtown for your consulting practice, that rent is a business expense. If you work from a dedicated space in your home, you can deduct the proportional cost of your apartment.
+  
+  Equipment and technology are deductible. Computers, monitors, cameras, printers, phones used for business, software subscriptions, cloud storage — all of it. Under Section 179 of the tax code, you can often deduct the full cost of equipment in the year you buy it rather than depreciating it over several years. This is a significant advantage for businesses that invest in tools.
+  
+  Marketing and advertising expenses are fully deductible. Website hosting, domain names, online ads, business cards, signage, sponsored posts — anything you spend to attract customers or clients.
+  
+  Professional services are deductible. What you pay your accountant, your lawyer, your bookkeeper, your business consultant — all of it comes off your taxable income. This is one reason why the cost of good professional advice almost always pays for itself.
+  
+  Travel for business purposes is deductible. This includes flights, hotels, and 50% of meal costs when traveling for business. Local transportation — subway fares to client meetings, Uber rides to the office, mileage if you drive — is also deductible. Keep records.
+  
+  Employee wages and benefits are fully deductible, including what you pay for health insurance for your employees and for yourself as a self-employed person.
+  
+  Education and professional development that maintains or improves skills required in your current work are deductible. Courses, books, professional memberships, industry conferences — these all qualify.
+  
+  Where people run into trouble is trying to deduct personal expenses by calling them business expenses. A meal with a friend is not a business meal just because you talked about work for five minutes. Your personal Netflix subscription is not a business expense unless you genuinely use it to research content for a production company. The line is not always bright, but it needs to be real.
+  
+  The single best thing you can do is maintain a separate bank account for business and keep records throughout the year. When everything is mixed together in one account, you spend far too much time at tax time trying to reconstruct what was business and what was personal.
+      `
+    },
+    {
+      slug: "scorp-llc-sole-proprietor-nyc-guide",
+      tag: "Business",
+      title: "S-Corp, LLC, or Sole Proprietor? What NYC Business Owners Need to Know",
+      date: "May 24, 2025",
+      readTime: "8 min read",
+      excerpt: "Choosing the right business structure is one of the most important tax decisions you will make. Here is how to think through it for a New York City business.",
+      content: `
+  This question comes up in almost every conversation we have with new or growing business owners in New York City. The structure you choose affects your taxes, your legal liability, your paperwork burden, and your flexibility. There is no one right answer — it depends on your situation — but here is how to think through it clearly.
+  
+  Starting with the simplest option: a sole proprietorship. This is the default if you are doing business as an individual without forming any entity. There is no registration required, no separate tax return, and minimal paperwork. Your business income flows directly onto your personal tax return on Schedule C.
+  
+  The downside is that you pay self-employment tax — 15.3% — on all of your net profit. On $100,000 of profit, that is $15,300 just in self-employment tax before any income tax. There is also no liability protection, meaning your personal assets are at risk if something goes wrong in the business.
+  
+  An LLC, which stands for Limited Liability Company, gives you legal protection without changing your taxes much by default. A single-member LLC is taxed exactly like a sole proprietorship — the same Schedule C, the same self-employment tax. The benefit is liability protection. Your personal assets are separated from your business assets. For New York City residents, there is also an LLC filing fee that ranges from $25 to $4,500 per year depending on income, which is worth factoring in.
+  
+  The S-Corporation election is where things get interesting from a tax perspective. An S-Corp is not a separate entity type — it is a tax election that an LLC or corporation can make. The key benefit is that it can reduce self-employment taxes significantly.
+  
+  Here is how: with an S-Corp, you pay yourself a reasonable salary and that salary is subject to payroll taxes. But profits above your salary are distributed to you as an owner distribution, and those distributions are not subject to self-employment tax. If your business earns $150,000 and you pay yourself a reasonable salary of $80,000, you save self-employment taxes on the remaining $70,000. At 15.3%, that is over $10,000 in savings.
+  
+  The tradeoff is complexity. An S-Corp requires payroll, a separate business bank account, more formal bookkeeping, and an additional tax return. The cost of administering the structure properly typically runs $1,500 to $3,000 per year in accounting fees. The math only makes sense once your profit is high enough that the tax savings exceed those costs — generally somewhere around $50,000 to $60,000 in annual profit.
+  
+  For New York City specifically, there is an additional consideration: the NYC Unincorporated Business Tax. This 4% tax applies to income from unincorporated businesses allocated to NYC. It applies to sole proprietors and partnerships but not to S-Corps. For profitable NYC businesses, this is another factor that can tip the analysis toward an S-Corp election.
+  
+  The right answer for your situation depends on your profit level, your risk tolerance for liability, how much administrative complexity you can handle, and what your growth trajectory looks like. A conversation with a tax professional who knows New York City business taxation is the best way to get a tailored recommendation.
+      `
+    },
+    {
+      slug: "quarterly-estimated-taxes-nyc-guide",
+      tag: "Freelancers",
+      title: "Do I Need to Pay Quarterly Estimated Taxes? A Guide for NYC Self-Employed",
+      date: "May 24, 2025",
+      readTime: "6 min read",
+      excerpt: "If you are self-employed or have income outside of a regular paycheck, quarterly taxes are probably required. Here is everything you need to know.",
+      content: `
+  Quarterly estimated taxes are one of the most confusing aspects of self-employment, and they trip up a lot of people who are new to working for themselves. The short answer to whether you need to pay them: if you expect to owe $1,000 or more in federal taxes and you do not have an employer withholding on your behalf, yes, you almost certainly do.
+  
+  The reason the system works this way is that the United States has a pay-as-you-go tax system. When you are an employee, your employer withholds taxes from every paycheck so you are constantly paying throughout the year. When you are self-employed, nobody does that for you. The IRS and New York State do not want to wait until April to collect — they want payments throughout the year.
+  
+  The quarterly deadlines for federal taxes are April 15, June 16, September 15, and January 15 of the following year. New York State follows the same schedule. New York City taxes are paid through your state return so there is no separate NYC quarterly payment.
+  
+  Missing these deadlines or underpaying results in an underpayment penalty. It is not a devastating penalty, but it is an annoying and completely avoidable cost. Many people think they can just pay everything in April — technically you can, but you will pay a penalty for not making the quarterly payments.
+  
+  The question most people ask next is: how do I know how much to pay each quarter? There are two approaches.
+  
+  The simpler approach is the safe harbor method. If you pay at least 100% of what you owed in taxes last year, divided into four equal quarterly payments, you will not owe an underpayment penalty regardless of what you end up owing for the current year. If your income was higher last year than it will be this year, this method might actually result in an overpayment and a refund, which is fine.
+  
+  The more precise approach is to estimate your actual current-year income each quarter and calculate your expected tax liability based on that. This requires more work but results in more accurate payments.
+  
+  For a New York City freelancer or small business owner, the practical advice is this: open a separate savings account and move 25% to 30% of every payment you receive into it as you go. This is your tax account. When quarterly payments are due, you have the money sitting there. You never have the painful experience of owing tens of thousands of dollars you have already spent.
+  
+  The IRS Form 1040-ES walks you through calculating your estimated payments. New York State uses Form IT-2105. If your income varies significantly from quarter to quarter, which is common for freelancers and business owners, working with a tax professional to calculate each quarter's payment based on actual income earned that period is worth doing.
+      `
+    },
+    {
+      slug: "self-employment-tax-nyc-explained",
+      tag: "Freelancers",
+      title: "Self-Employment Tax in NYC Explained: What It Is and How to Reduce It",
+      date: "May 24, 2025",
+      readTime: "6 min read",
+      excerpt: "Self-employment tax is often the biggest surprise for new freelancers in New York City. Here is what it is, why it exists, and how to legally minimize it.",
+      content: `
+  If you are new to freelancing or self-employment in New York City, the self-employment tax is probably the most unpleasant surprise waiting for you at tax time. Most people come in expecting to pay income tax and are caught off guard by an additional 15.3% on top of it.
+  
+  Here is what it is and why it exists. When you are an employee, your employer pays half of your Social Security and Medicare taxes — 7.65% — and withholds the other half from your paycheck. As a self-employed person, you are both the employer and the employee. You pay both halves. That is where the 15.3% comes from: 12.4% for Social Security on income up to the annual cap, plus 2.9% for Medicare on all income.
+  
+  On $80,000 of self-employment income, that is over $12,000 in self-employment tax before any federal or New York income tax is calculated. For someone used to W-2 employment where this was handled invisibly behind the scenes, it is a significant adjustment.
+  
+  There is some relief built in. You can deduct half of your self-employment tax from your gross income. So if you paid $12,000 in self-employment tax, $6,000 comes back off your taxable income. It does not eliminate the burden but it partially offsets it.
+  
+  The most powerful way to reduce self-employment tax legally is through the S-Corporation election, which we covered in a separate article. By paying yourself a reasonable salary and taking remaining profits as distributions, you can reduce the amount of income subject to self-employment tax significantly. The strategy requires proper setup and administration but the savings at moderate to high income levels are real.
+  
+  Retirement plan contributions also reduce your taxable income, which means less income subject to self-employment tax as well. A SEP-IRA contribution of $20,000 reduces not just your income tax but the base on which self-employment tax is calculated.
+  
+  For New York City residents, the self-employment tax situation is compounded by state and city income taxes. When you add up federal self-employment tax, federal income tax, New York State income tax, and NYC income tax, the combined burden for a profitable NYC freelancer can exceed 50% of each additional dollar earned. This makes tax planning not optional but genuinely essential.
+  
+  Understanding what you owe and why is the first step. The second step is working with someone who can help you structure your business and your finances in a way that keeps more of what you earn legally and legitimately.
+      `
+    },
   ];
